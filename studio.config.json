@@ -1,19 +1,23 @@
 {
-  "packages": {
-    "dir": "",
-    "menu": [
-      [
-        "TOKENS",
-        []
-      ],
-      [
-        "COMPONENTS",
-        []
-      ],
-      [
-        "INFRASTRUCTURE",
-        []
-      ]
+ "packages": {
+  "dir": "",
+  "menu": [
+   [
+    "TOKENS",
+    []
+   ],
+   [
+    "COMPONENTS",
+    [
+     "Button"
     ]
-  }
+   ],
+   [
+    "INFRASTRUCTURE",
+    [
+     "Docs"
+    ]
+   ]
+  ]
+ }
 }
