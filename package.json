@@ -1,0 +1,13 @@
+{
+  "name": "@backlight-dev/thais.to-be-deleted",
+  "version": "0.0.0",
+  "description": "",
+  "license": "MIT",
+  "type": "module",
+  "homepage": "{{ homepage }}",
+  "scripts": {
+    "serve": "npx backlight@latest serve rYlE6PxDjyInJVwSAOaN --open"
+  },
+  "devDependencies": {},
+  "dependencies": {}
+}
